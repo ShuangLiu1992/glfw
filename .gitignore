@@ -58,7 +58,6 @@ src/libglfw.so
 src/libglfw.so.3
 src/libglfw.so.3.4
 src/libglfw.dylib
-src/libglfw.dylib
 src/libglfw.3.dylib
 src/libglfw.3.4.dylib
 src/libglfw3.a
@@ -101,3 +100,4 @@ tests/triangle-vulkan
 tests/window
 tests/windows
 
+/CMakeUserPresets.json
